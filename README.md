@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 💾 About Me
+My name is Jimmy, a web developer currently carving out my own path in life.
+
+
+🚀 Stack: React, Node.js, PostgreSQL, Express, JavaScript (ES5/ES6), HTML, CSS
+
