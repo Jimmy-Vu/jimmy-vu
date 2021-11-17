@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 My name is Jimmy, a web developer currently carving out my own path in life.
 
 
-🚀 Stack: React, Node.js, PostgreSQL, Express, JavaScript (ES5/ES6), HTML, CSS
+🚀 Stack: React, Node.js, PostgreSQL, Express, JavaScript (ES5/ES6), HTML5, CSS3
+📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
 
