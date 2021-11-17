@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Jimmy-Vu/jimmy-vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 💾 About Me
-My name is Jimmy, a web developer currently carving out my own path in life.
+### 💾 About Me
+My name is Jimmy, a full stack web developer with a joy for coding and self betterment.
 
+🌆 Status: Currently carving a path in life for myself
 
 🚀 Stack: React, Node.js, PostgreSQL, Express, JavaScript (ES5/ES6), HTML5, CSS3
 
 📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
 
-#### Links
+### Links
 [LinkedIn](https://www.linkedin.com/in/jimmyvu2)
