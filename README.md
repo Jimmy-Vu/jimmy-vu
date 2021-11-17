@@ -22,3 +22,5 @@ My name is Jimmy, a web developer currently carving out my own path in life.
 
 📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
 
+#### Links
+[LinkedIn](www.linkedin.com/in/jimmyvu2)
