@@ -22,6 +22,3 @@ My name is Jimmy, a full stack web developer with a joy for coding and self bett
 🚀 Stack: React, Node.js, PostgreSQL, Express, JavaScript (ES5/ES6), HTML5, CSS3
 
 📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
-
-### Links
-[LinkedIn](https://www.linkedin.com/in/jimmyvu2)
