@@ -23,4 +23,6 @@ My name is Jimmy, a full stack web developer with a joy for coding and self bett
 
 📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
 
+🎏 Hobbies: Weight training, cooking, reading, and writing
+
 [![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Vu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
