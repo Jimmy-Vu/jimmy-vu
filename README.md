@@ -25,4 +25,8 @@ My name is Jimmy, a full stack web developer with a joy for coding and self bett
 
 🎏 Hobbies: Weight training, cooking, reading Brandon Sanderson novels, and writing
 
+#### You can find me on the following platforms:
+- [LinkedIn](https://www.linkedin.com/in/jimmyvu2/)
+- [Goodreads](https://www.goodreads.com/user/show/98015268-jimmy)
+
 [![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Vu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
