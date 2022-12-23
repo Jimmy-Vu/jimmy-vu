@@ -19,7 +19,7 @@ My name is Jimmy, a full stack web developer with a joy for coding and self bett
 
 🌆 Status: Currently carving a path in life for myself
 
-🚀 Stack: React, Redux, Node.js, PostgreSQL, Express, JavaScript (ES5/ES6), HTML5, CSS3
+🚀 Stack: React, Redux, Node.js, PostgreSQL, Express.js, TypeScript, Jest, Playwright, JavaScript (ES5/ES6), HTML5, CSS3
 
 📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
 
