@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💾 About Me
-My name is Jimmy, a full stack web developer with a joy for coding and self betterment.
+My name is Jimmy, a software engineer with a joy for coding and self betterment.
 
 🌆 Status: Currently carving a path in life for myself
 
-🚀 Stack: React, Redux, Node.js, PostgreSQL, Express.js, TypeScript, Jest, Playwright, JavaScript (ES5/ES6), HTML5, CSS3
+🚀 Languages: TypeScript, JavaScript, SQL, HTML, CSS
 
-📐 Tools: Webpack, Babel, npm, Git, GitHub, Slack
+📐 Technologies/Tools: React, Redux, Node.js, PostgreSQL, Sass, Express.js, Webpack, Babel, Jest, Playwright, Bootstrap, Git, REST API
+
+📂 Other: npm, GitHub, Figma
 
 🎏 Hobbies: Weight training, cooking, reading Brandon Sanderson novels, and writing
 
