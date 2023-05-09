@@ -21,7 +21,7 @@ My name is Jimmy, a software engineer with a joy for coding and self betterment.
 
 🚀 Languages: TypeScript, JavaScript, SQL, HTML, CSS
 
-📐 Technologies/Tools: React, Redux, Node.js, PostgreSQL, Sass, Express.js, Webpack, Babel, Jest, Playwright, Bootstrap, Git, REST API
+📐 Technologies/Tools: React, Redux, Node.js, PostgreSQL, Sass, Express.js, Webpack, Babel, Jest, Tailwind, Bootstrap, Git, REST API
 
 📂 Other: npm, GitHub, Figma
 
